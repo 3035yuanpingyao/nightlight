@@ -1,0 +1,39 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #D4D4D4;
+}
+
+#viewDiv01 {
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	top:100px;
+	bottom: 100px;
+	height: 600px;
+	width: 50%;
+}
+
+
+#viewDiv02 {
+	position: absolute;
+	top: 100px;
+	right: 0px;
+	padding: 0;
+	margin: 0;
+	bottom: 100px;
+	height: 600px;
+	width: 50%;
+}
+
+#word{
+	position: absolute;
+	left: 50px;
+	bottom: 10px;
+	height: 180px;
+	width: 500px;
+	background-color: #FAFAD2;
+}
